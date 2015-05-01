@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SkyUI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="openDrawer">OPEN</string>
+    <string name="closeDrawer">CLOSE</string>
+</resources>
