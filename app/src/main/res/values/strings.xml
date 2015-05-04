@@ -1,8 +1,21 @@
 <resources>
     <string name="app_name">SkyUI</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
     <string name="openDrawer">OPEN</string>
     <string name="closeDrawer">CLOSE</string>
+    <string name="Tab_Name_Chat">CHAT</string>
+    <string name="Tab_Name_Channel">Channel</string>
+
+    <string name="title">(Android WebSockets Chat App)</string>
+    <string name="author_name">By ZJ</string>
+    <string name="author_url">www.skycitizen.net</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="btn_join_private">Private Message</string>
+    <string name="btn_join_channel">Channel Message</string>
+    <string name="btn_send">Send</string>
+    <string name="title_activity_name">NameActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_frame">FrameActivity</string>
+    <string name="exampleContent">不知不觉，5月了~马上就要1年了啊~！ 感谢各位的支持与厚爱，可是我已经不再接任何翻译了... 至于一些mod的更新，我只能说，尽量吧...如果是某个比较火爆的mod更新了，那么请在帖子里@我或是私聊通知，在周末时我会上来更一下，单纯的在帖子中留言我是看不到，因为我很少看回复 当初打天下的一批人，退的退，隐的隐，就是雷老师了...可怜的我还奢望弟子却然能够继承衣钵，奈何那丫头隐的比我还早...所以...时之沙的mcm菜单的肯定没戏了 最近大家也都能看到，基本上我是很少来天网，在干嘛呢？GTA/LOL/暗黑3...属于滚5的辉煌时期已经过了~ 之前想去做GTA区，老大也把区交给我了，可是昨天上来一看，发现自己根本没有过去的热情和动力，所以...还是默默的当一个伸手党吧！ 王朝已经建立，已经步入正轨，至于以后如何，谁知道呢 想和我们玩其他的游戏的，嗯，酒馆茶馆欢迎你！群链接在下载地址处 话说这2个地方很欢乐，成员们每天都能看到S天皇大战软女神，虽然每次都被吊打，但是这种锲而不舍持之以恒的精神还是很值得学习的(茶馆我已经被禁言30天了...) 好了，就这样吧~再见了 祝大家玩的开心！</string>
+
 </resources>
